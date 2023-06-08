@@ -1,6 +1,8 @@
 ### Olà, Mundo!👋 Me chamo Samuel
 <p><strong>Iniciante com vontade de aprender.</strong></p>
 
+### Meu site(mini-projeto):
+[![blog](https://img.shields.io/website?label=nova-era.vercel.app&style=for-the-badge&url=https://lacosta.vercel.app)](https://lacosta.vercel.app)
 ### Tecnologias que estou aprendendo atualmente:
 
 ![tecs](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
